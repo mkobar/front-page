@@ -12,3 +12,9 @@ posts. It communicates with the [Firebase Hacker News API](https://github.com/Ha
 News Search API](https://hn.algolia.com/api).
 
 ** Note**: The number of comments in the chat bubble is the number of top level comments
+
+[forum] (http://forum.ionicframework.com/t/json-feed-frontpage-app/14485)
+
+Available now on [Google Play] (https://play.google.com/store/apps/details?id=com.ionic.frontpage&hl=en) or [iOS App Store] (https://itunes.apple.com/us/app/hn-front-page/id905998731?mt=8)
+
+Another one can be found [here] (https://github.com/leonsas/hn-ionic)
